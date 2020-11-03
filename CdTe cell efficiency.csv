@@ -1,0 +1,20 @@
+Measurement Date,Month,Year,Cell Type,Group(s),Efficiency / %
+Feb-85,2,1985,CdTe,ATEC,10.5
+Sep-91,9,1991,CdTe,Photon Energy,9.1
+May-93,5,1993,CdTe,"Solar Cells, Inc.",10.5
+Jan-93,1,1993,CdTe,"Solar Cells, Inc.",12.5
+Aug-93,8,1993,CdTe,Golden Photon,7.7
+Oct-93,10,1993,CdTe,"Solar Cells, Inc.",7.8
+Feb-95,2,1995,CdTe,ANTEC,10.6
+Apr-96,4,1996,CdTe,"Solar Cells, Inc.",9.1
+Apr-97,4,1997,CdTe,Golden Photon,9.2
+Feb-99,2,1999,CdTe,Matsushita,10.5
+Apr-00,4,2000,CdTe,BP Solarex,10.7
+May-00,5,2000,CdTe,BP Solarex,10.5
+Sep-10,9,2010,CdTe,ASP Hangzhou,12.5
+Jan-11,1,2011,CdTe,PrimeStar Solar,12.8
+Jan-12,1,2012,CdTe,First Solar,15.3
+Feb-13,2,2013,CdTe,First Solar,16.1
+Feb-14,2,2014,CdTe,First Solar,17.5
+Apr-15,4,2015,CdTe,First Solar,18.6
+Sep-19,9,2019,CdTe,First Solar,19
